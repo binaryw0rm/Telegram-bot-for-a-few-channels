@@ -86,9 +86,13 @@ Done! Bot is live 24/7.
 ## Project Structure
 
 ├── bot.py               # main logic (fully commented)
+
 ├── .env.example         # template
+
 ├── requirements.txt
+
 ├── sales-bot.service    # systemd service file
+
 └── README.md            # ← you are here
 
 
