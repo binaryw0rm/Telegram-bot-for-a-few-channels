@@ -110,7 +110,10 @@ Done! Bot is live 24/7.
 ![текст-описание](https://github.com/binaryw0rm/Telegram-bot-for-a-few-channels/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA3.JPG?raw=true)
 
 
+---
 
 Author — @binaryw0rm
+
 Available for similar custom bots (100-150$) · DM me on Telegram
+
 Made with love 
