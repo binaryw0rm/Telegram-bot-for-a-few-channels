@@ -72,7 +72,7 @@ MANAGER_IDS=123456789,987654321
 ```
 ### Step 5 — Deploy (systemd included)
 
-Bash
+```
 git clone https://github.com/yourname/multi-department-bot.git
 cd multi-department-bot
 cp .env.example .env
@@ -80,19 +80,23 @@ nano .env                    # paste your real token & manager IDs
 pip install -r requirements.txt
 sudo cp sales-bot.service /etc/systemd/system/
 sudo systemctl enable --now sales-bot.service
+```
 Done! Bot is live 24/7.
 
-### Project Structure
+## Project Structure
 text├── bot.py              # main logic
 ├── .env.example        # template
 ├── requirements.txt
 └── sales-bot.service   # auto-start on Ubuntu
 
-Screenshots (add yours later)
+## Screenshots 
+
 Manager notification
+
 Channel button
+
 User welcome
 
-Author — @your_nickname
-Available for similar custom bots (25–40k ₽) · DM me on Telegram
-Made with love in 2025
+Author — @binaryw0rm
+Available for similar custom bots (100-150$) · DM me on Telegram
+Made with love 
