@@ -84,10 +84,14 @@ sudo systemctl enable --now sales-bot.service
 Done! Bot is live 24/7.
 
 ## Project Structure
-├── bot.py              # main logic
-├── .env.example        # template
+
+├── bot.py               # main logic (fully commented)
+├── .env.example         # template
 ├── requirements.txt
-└── sales-bot.service   # auto-start on Ubuntu
+├── sales-bot.service    # systemd service file
+└── README.md            # ← you are here
+
+
 
 ## Screenshots 
 
