@@ -99,16 +99,24 @@ Done! Bot is live 24/7.
 
 ## Screenshots 
 
-### Manager notification
-![текст-описание](https://github.com/binaryw0rm/Telegram-bot-for-a-few-channels/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA2.JPG?raw=true)
-
-### Channel button
-![текст-описание](https://github.com/binaryw0rm/Telegram-bot-for-a-few-channels/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA.JPG?raw=true)
-
-### User welcome)
-
-![текст-описание](https://github.com/binaryw0rm/Telegram-bot-for-a-few-channels/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA3.JPG?raw=true)
-
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/binaryw0rm/Telegram-bot-for-a-few-channels/blob/main/image.JPG?raw=true" width="250"><br>
+        <sub>Channel button</sub>
+      </td>
+      <td align="center">
+        <img src="https://github.com/binaryw0rm/Telegram-bot-for-a-few-channels/blob/main/image3.JPG?raw=true" width="250"><br>
+        <sub>User welcome</sub>
+      </td>
+      <td align="center">
+        <img src="https://github.com/binaryw0rm/Telegram-bot-for-a-few-channels/blob/main/image2.JPG?raw=true" width="250"><br>
+        <sub>Manager notification</sub>
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
